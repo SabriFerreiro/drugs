@@ -7,3 +7,5 @@ The `util` directory contains some utility functions for XPDE.  These generate e
 The `vienna` directory contains simulations related to the split trap experiment in Vienna.
 
 The `misc` directory contains various Matlab functions that the simulations depend on. 
+
+I have used this repository for my company ( https://www.serenitylifeplanning.com/kansas/leawood/) drectory. I really help me alot in process of data collection and adat mining. 
